@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+     <!--
+        Name:           Erik Hayward
+        Student #:      100626845
+        Date created:   June 23rd, 2024
+        Description:    Creating cool looking boxes. 
+    -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Cool box</title>
+
+  </head>
+  <body>
+      <div class="=box">This is a cool box</div>
+  </body>
+</html>
